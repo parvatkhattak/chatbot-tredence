@@ -1,6 +1,6 @@
 # 📄 Retail PDF Q&A Chatbot
 
-A Retrieval-Augmented Generation (RAG) chatbot that answers questions about a specific PDF document, built with FAISS for semantic search and OpenAI's GPT-4o-mini for answer generation. Frontend built with Streamlit.
+A Retrieval-Augmented Generation(RAG) chatbot that answers questions about a specific PDF document, built with FAISS for semantic search and OpenAI's GPT-4o-mini for answer generation. Frontend built with Streamlit.
 
 ## Features
 
